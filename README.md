@@ -1,3 +1,4 @@
+
 Shopping Website
 
 
@@ -27,7 +28,30 @@ check that the tesmonial page ->
 ![pic 4](https://github.com/faisalabbas001/Shopping_Website/assets/167535154/0a24886e-892d-4d95-a904-22963f05a976)
 
 
-check that the footer page ->
+check that the demo live here ->
 
-![ppic5](https://github.com/faisalabbas001/Shopping_Website/assets/167535154/1c80ebe4-c59f-4d07-a7ad-67429fd5c770)
+
+https://shopping-website-git-main-faisalabbas001s-projects.vercel.app
+
+
+
+check that the demo video ->
+
+
+
+https://github.com/faisalabbas001/Shopping_Website/assets/167535154/793d916c-0531-4094-97cd-d0e0786759b3
+
+
+
+
+GET STARTED ->
+
+
+1->  npm i  
+2-> npm react icons 
+3-> npm i firebase 
+4-> npm run dev
+
+
+
 
