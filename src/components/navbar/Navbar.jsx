@@ -84,7 +84,7 @@ export default function Navbar() {
                     <Link to={'/'} className="-m-2 block p-2 font-medium text-gray-900 cursor-pointer">
                       <img
                         className="inline-block w-10 h-10 rounded-full"
-                        src="https://i.pinimg.com/736x/a5/95/53/a59553b51e05985c0cafba435488aec2.jpg"
+                        src="https://avatars.githubusercontent.com/u/167535154?v=4"
                         alt="Dan_Abromov" />                                        </Link>
                   </div>
                 </div>
@@ -175,7 +175,7 @@ export default function Navbar() {
                   <a href="#" className="flex items-center text-gray-700 ">
                     <img
                       className="inline-block w-10 h-10 rounded-full"
-                      src="https://i.pinimg.com/736x/a5/95/53/a59553b51e05985c0cafba435488aec2.jpg"
+                      src="https://avatars.githubusercontent.com/u/167535154?v=4"
                       alt="Faisal_Abbas" />
                   </a>
                 </div>
